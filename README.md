@@ -30,13 +30,15 @@ I maintain a growing index connecting publications with their **code, datasets, 
 **[Publication ↔ Code/Dataset Index →](https://github.com/DrFahmidAlFarid/DrFahmidAlFarid.github.io/blob/main/RESEARCH_RESOURCES.md)**
 
 ## 📚 Research Portfolio
-| Theme | Focus |
+| Research hub | Focus |
 |---|---|
-| Smart Farming & Computer Vision | Crop disease, precision agriculture, lightweight AI, Agricultural IoT |
-| Medical AI & XAI | Medical imaging, disease classification/segmentation, interpretable AI |
-| Federated & Privacy-Aware AI | Federated learning, privacy-preserving modelling, FL + XAI |
-| Robotics & Computer Vision | ROS/ROS2, robot vision, HRI, intelligent automation |
-| Industrial AI | Wafer defects, fault diagnosis, condition monitoring |
+| **[🌱 Smart Farming & Computer Vision](https://github.com/DrFahmidAlFarid/Smart-Farming-Computer-Vision)** | Crop disease, precision agriculture, lightweight AI, Agricultural IoT |
+| **[🩺 Medical AI & XAI](https://github.com/DrFahmidAlFarid/Medical-AI-XAI)** | Medical imaging, disease classification/segmentation, interpretable AI |
+| **[🔐 Federated & Privacy-Aware AI](https://github.com/DrFahmidAlFarid/Federated-Privacy-AI)** | Federated learning, privacy-preserving modelling, FL + XAI |
+| **[🤖 Robotics & Computer Vision](https://github.com/DrFahmidAlFarid/Robotics-Computer-Vision)** | ROS/ROS2, robot vision, HRI, intelligent automation |
+| **[🏭 Industrial AI & Fault Diagnosis](https://github.com/DrFahmidAlFarid/Industrial-AI-Fault-Diagnosis)** | Wafer defects, fault diagnosis, condition monitoring |
+
+> These thematic hubs organize verified publication resources and future original/shareable code without duplicating collaborators' work or implying ownership.
 
 ## 🛠️ Research Stack
 Python · PyTorch · TensorFlow · Keras · OpenCV · Scikit-learn · ROS/ROS2 · Jupyter · Google Colab
